@@ -1,4 +1,4 @@
-# CreepX451 Official Website
+# CreepX451's Official Website
 
 ## Who is CreepX451?
 CreepX451 is a female developer that develops video games and Minecraft-related things
@@ -13,3 +13,6 @@ CreepX451 is a female developer that develops video games and Minecraft-related 
 - [ ] RealismExtreme Java Shader
 - [x] 1985: The Golden Age
 - [x] One Night at Jimbo's
+
+
+*Made with love by CreepX451*

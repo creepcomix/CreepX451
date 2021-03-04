@@ -5,6 +5,10 @@ CreepX451 is a female developer that develops video games and Minecraft-related 
 
 ## What projects is she working on?
 ### Current Projects:
+- [x] CandleLight VR (Quest and PC)
+- [ ] Acadia: Remastered
+- [ ] 1985: The Golden Age: Remastered
+- [ ] CreepingDepths VR
 - [ ] Delusions
 - [ ] Jeff's Pizza
 - [ ] RealismExtreme

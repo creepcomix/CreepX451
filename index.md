@@ -1,6 +1,6 @@
 # nerdgirl_art (CreepX451)'s Official Website!
 
-## Who is nerdgirl_art or CreepX451?
+## Who is nerdgirl_art (CreepX451)?
 nerdgirl_art (CreepX451) is a female developer that develops video games and Minecraft-related things
 
 ## What projects is she working on?

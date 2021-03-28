@@ -18,7 +18,7 @@ nerdgirl_art (CreepX451) is a female developer that develops video games and Min
 - [x] 1985: The Golden Age
 - [x] One Night at Jimbo's
 
-
+All links are here: https://direct.me/nerdgirl-art
 
 
 *Made with love by nerdgirl_art (CreepX451)*

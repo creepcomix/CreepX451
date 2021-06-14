@@ -12,8 +12,10 @@ nerdgirl_art (CreepX451) is a female developer that develops video games and Min
 ### Non-VR Games:
 - [ ] Jeff's Pizza
 - [ ] Delusions
-- [ ] Acadia: Remastered
 - [ ] 1985 The Golden Age: Remastered
+### Minecraft Texture Packs:
+- [x] Granny Pack
+- [ ] Insane Realism
 
 All links are here: https://direct.me/nerdgirl-art
 

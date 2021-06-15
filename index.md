@@ -17,8 +17,11 @@ nerdgirl_art (CreepX451) is a female developer that develops video games and Min
 - [x] Granny Pack
 - [ ] Insane Realism
 
-All links are here: https://direct.me/nerdgirl-art
+### Privacy Policy For My Projects:
+All rights are reserved by default for all of my projects. If there is a project that uses textures or assets from other games or other websites, it will be noted. All assets are automatically reserved under Creatvie Commons 0 unless noted. All project names are automatically reserved under All Rights Reserved unless noted. Users personal information, by default, is never shared by or to anyone including myself unless specifically noted.
+
 
 
 *Made with love by nerdgirl_art (CreepX451)*
+
 
